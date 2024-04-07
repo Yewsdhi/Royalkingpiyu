@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","lXl_DEVIL_l")
+OWNER_USERNAME = getenv("OWNER_USERNAME","II_ROYALENTRY1128_II")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "l_OP_ll_MUSIC_ll_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Queenhoneybot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "QUEEN")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002022711717))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002132108601))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7012132283))
+OWNER_ID = int(getenv("OWNER_ID", 1384525218))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/KING0712/QUEEN_MUSIC",
+    "https://github.com/Yewsdhi/Royalkingpiyu",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_STAYLISH_l_DPZ_l")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/l_RED_l_ZONE_l")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/royalmusibotl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/royalmusicboto")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,10 +141,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org//file/6498f54284a4dcd3b4eb9.jpg"
+    "START_IMG_URL", "https://graph.org/file/e78646567b7bcad4c6a55.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org//file/5be677d49aa2e5c13cf75.jpg"
+    "PING_IMG_URL", "https://graph.org/file/8ad010a2a1fe583469930.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org//file/5be677d49aa2e5c13cf75.jpg"
 STATS_IMG_URL = "https://graph.org//file/5be677d49aa2e5c13cf75.jpg"
