@@ -24,15 +24,10 @@
 
 </h3>
  
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ChampuXD/ChampuMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Yewsdhi/Royalkingpiyu"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-<h3 align="center">
-       ─「 𝗦𝗥𝗧𝗜𝗡𝗚 𝗦𝗘𝗦𝗦𝗜𝗢𝗡  」─
-</h3>
 
-
-<p align="center"><a href="https://replit.com/@shivanshudeo/Champu"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
