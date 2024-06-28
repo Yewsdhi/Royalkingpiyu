@@ -33,7 +33,7 @@
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 
 <p align="center">
-  <img src="https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif">
+  <img src="https://github.com/Yewsdhi/Royalkingpiyu/blob/main/https://graph.org/file/575ec22320b28aa28fc25.mp4">
 </p>
 </p>
  <h3></h3>
