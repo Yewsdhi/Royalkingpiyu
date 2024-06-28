@@ -21,12 +21,40 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-<h3> 𝗡𝗜𝗖𝗛𝗘 𝗛𝗘𝗥𝗢𝗞𝗨 𝗞𝗘 𝗕𝗨𝗧𝗧𝗢𝗡 𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗔𝗥 𝗟𝗘 🤧 </h3>
+
+
+</h3>
+ 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ChampuXD/ChampuMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+<h3 align="center">
+       ─「 𝗦𝗥𝗧𝗜𝗡𝗚 𝗦𝗘𝗦𝗦𝗜𝗢𝗡  」─
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Yewsdhi/Royalkingpiyu"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://replit.com/@shivanshudeo/Champu"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
+<h3 align="center">
+<a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
+
+
+
+<h3 align="center">
+    ─「 🖤ꜱнͥινͣαͫиѕнυ🖤 」─
+</h3>
+
+<p align="center">
+<a href="https://telegram.me/TheChampu"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://telegram.me/TheChampuStore"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
 <h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
 
