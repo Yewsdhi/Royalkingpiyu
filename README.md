@@ -27,4 +27,5 @@
 
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Yewsdhi/Royalkingpiyu"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
-<a href="https://github.com/KashDaYash"> <img src="https://img.shields.io/badge/KashDaYash-black?style=for-the-badge&logo=github" alt="KashDaYash" /> </a> </h3>
+
+<a href="https://github.com/KashDaYash"> <img src="https://img.shields.io/badge/the-stonex-black?style=for-the-badge&logo=github" alt="the-stonex" /> </a> </h3>
