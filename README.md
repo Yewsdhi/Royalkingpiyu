@@ -28,4 +28,5 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Yewsdhi/Royalkingpiyu"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
+<h3 align="center"> ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs  <h3 align="center">
 <a href="https://github.com/the-stonex"> <img src="https://img.shields.io/badge/the-stonex-black?style=for-the-badge&logo=github" alt="the-stonex" /> </a> </h3>
