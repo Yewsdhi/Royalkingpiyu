@@ -35,6 +35,8 @@
  <h3 align="center"> ᴍᴜꜱɪᴄʙᴏᴛ   <h3 align="center">
      
 [![MUSIC](https://img.shields.io/badge/-Queenhoneybot-E1306C?style=for-the-badge&logo=Queenhoneybot&logoColor=green)](https://t.me/Queenhoneybot)
+[![MUSIC](https://img.shields.io/badge/Nayaramusicbot-%2307405e.svg?&style=for-the-badge&logo=Nayaramusicbot&logoColor)](https://t.me/Nayaramusicbot)
+[![MUSIC](https://img.shields.io/badge/-SeonahmusicBot-E1306C?style=for-the-badge&logo=SeonahmusicBot&logoColor=green)](https://t.me/SeonahmusicBot)
 
 </h3>
 
