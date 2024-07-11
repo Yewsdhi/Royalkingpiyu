@@ -85,7 +85,7 @@ def stream_markup(_, chat_id):
         ],
         [
          InlineKeyboardButton(text="😈 𝐎𝐰𝐧𝐞𝐫 😈", user_id=config.OWNER_ID),
-         InlineKeyboardButton(text="🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/+-kj9BEEhruUxMDNl"),
+         InlineKeyboardButton(text="🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/royalmusibotl"),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
