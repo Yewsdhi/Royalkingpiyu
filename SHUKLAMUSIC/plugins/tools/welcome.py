@@ -4,11 +4,11 @@ from PIL import ImageDraw, Image, ImageFont, ImageChops
 from pyrogram import *
 from pyrogram.types import *
 from logging import getLogger
-from VIPMUSIC import LOGGER
+from SHUKLAMUSIC import LOGGER
 from pyrogram.types import Message
-from VIPMUSIC.misc import SUDOERS
-from VIPMUSIC import app
-from VIPMUSIC.utils.database import *
+from SHUKLAMUSIC.misc import SUDOERS
+from SHUKLAMUSIC import app
+from SHUKLAMUSIC.utils.database import *
 
 LOGGER = getLogger(__name__)
 
@@ -123,10 +123,10 @@ async def greet_group(_, member: ChatMemberUpdated):
 ● ᴜsᴇʀɴᴀᴍᴇ ➥  @{user.username}
 ● ᴜsᴇʀ ɪᴅ ➥  {user.id}
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ˹ᴀᴀʀᴜ ꭙ ᴍᴜsɪᴄ˼ ♡゙
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ˹@Queenhoneybot ♡゙
 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▰
 """,
-reply_markup=InlineKeyboardMarkup(
+reply_maineKeyboardMarkup(
 [
 [InlineKeyboardButton(f"ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/{app.username}?startgroup=True"),
 ]
