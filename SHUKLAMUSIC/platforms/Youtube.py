@@ -10,8 +10,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from AviaxMusic.utils.database import is_on_off
-from AviaxMusic.utils.formatters import time_to_seconds
+from SHUKLAMUSIC.utils.database import is_on_off
+from SHUKLAMUSIC.utils.formatters import time_to_seconds
 
 
 
