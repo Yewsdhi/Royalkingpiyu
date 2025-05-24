@@ -2,6 +2,7 @@ import asyncio
 import os
 import re
 import json
+import httpx
 from typing import Union
 
 import yt_dlp
@@ -9,8 +10,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from SHUKLAMUSIC.utils.database import is_on_off
-from SHUKLAMUSIC.utils.formatters import time_to_seconds
+from AviaxMusic.utils.database import is_on_off
+from AviaxMusic.utils.formatters import time_to_seconds
 
 
 
@@ -58,12 +59,12 @@ async def check_file_size(link):
     info = await get_format_info(link)
     if info is None:
         return None
-
+    
     formats = info.get('formats', [])
     if not formats:
         print("No formats found.")
         return None
-
+    
     total_size = parse_size(formats)
     return total_size
 
@@ -80,6 +81,21 @@ async def shell_cmd(cmd):
         else:
             return errorz.decode("utf-8")
     return out.decode("utf-8")
+
+
+async def get_youtube_stream(query: str, video: bool = False):
+    api_url = "http://154.26.159.2:1470/youtube"
+    api_key = "1a873582a7c83342f961cx0a177b2b26"
+    params = {"query": query, "video": video, "api_key": api_key}
+
+    try:
+        async with httpx.AsyncClient(timeout=60) as client:
+            response = await client.get(api_url, params=params)
+            response.raise_for_status()
+            info = response.json()
+            return info["stream_url"]
+    except Exception:
+        return ""
 
 
 class YouTubeAPI:
@@ -380,6 +396,11 @@ class YouTubeAPI:
             fpath = f"downloads/{title}.mp3"
             return fpath
         elif video:
+            downloaded_file = await get_youtube_stream(link, True)
+            direct = None
+            if downloaded_file:
+                return downloaded_file, direct
+                
             if await is_on_off(1):
                 direct = True
                 downloaded_file = await loop.run_in_executor(None, video_dl)
@@ -410,6 +431,12 @@ class YouTubeAPI:
                    direct = True
                    downloaded_file = await loop.run_in_executor(None, video_dl)
         else:
+            downloaded_file = await get_youtube_stream(link, False)
+            direct = None
+            if downloaded_file:
+                return downloaded_file, direct
+                
             direct = True
             downloaded_file = await loop.run_in_executor(None, audio_dl)
         return downloaded_file, direct
+            
